@@ -1,0 +1,11 @@
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\bin\Debug\Odev2.7OkulZilUygulamasi.exe.config
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\bin\Debug\Odev2.7OkulZilUygulamasi.exe
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\bin\Debug\Odev2.7OkulZilUygulamasi.pdb
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\obj\Debug\Odev2.7OkulZilUygulamasi.csproj.AssemblyReference.cache
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\obj\Debug\Odev2._7OkulZilUygulamasi.Form1.resources
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\obj\Debug\Odev2._7OkulZilUygulamasi.Properties.Resources.resources
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\obj\Debug\Odev2.7OkulZilUygulamasi.csproj.GenerateResource.cache
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\obj\Debug\Odev2.7OkulZilUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\obj\Debug\Odev2.7OkulZilUygulamasi.exe
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\obj\Debug\Odev2.7OkulZilUygulamasi.pdb
+C:\Users\serap\source\repos\Odev2.7OkulZilUygulamasi\Odev2.7OkulZilUygulamasi\obj\Debug\Odev2._7OkulZilUygulamasi.KullaniciGiris.resources

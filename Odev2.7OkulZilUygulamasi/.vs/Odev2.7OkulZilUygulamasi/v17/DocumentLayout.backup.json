@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serap\\source\\repos\\Odev2.7OkulZilUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE6D763-64BF-4B70-AC8E-47852FF401A6}|Odev2.7OkulZilUygulamasi\\Odev2.7OkulZilUygulamasi.csproj|c:\\users\\serap\\source\\repos\\odev2.7okulziluygulamasi\\odev2.7okulziluygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FE6D763-64BF-4B70-AC8E-47852FF401A6}|Odev2.7OkulZilUygulamasi\\Odev2.7OkulZilUygulamasi.csproj|solutionrelative:odev2.7okulziluygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE6D763-64BF-4B70-AC8E-47852FF401A6}|Odev2.7OkulZilUygulamasi\\Odev2.7OkulZilUygulamasi.csproj|C:\\Users\\serap\\source\\repos\\Odev2.7OkulZilUygulamasi\\odev2.7okulziluygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE6D763-64BF-4B70-AC8E-47852FF401A6}|Odev2.7OkulZilUygulamasi\\Odev2.7OkulZilUygulamasi.csproj|solutionrelative:odev2.7okulziluygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\source\\repos\\Odev2.7OkulZilUygulamasi\\Odev2.7OkulZilUygulamasi\\Form1.cs",
+              "RelativeDocumentMoniker": "Odev2.7OkulZilUygulamasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\serap\\source\\repos\\Odev2.7OkulZilUygulamasi\\Odev2.7OkulZilUygulamasi\\Form1.cs*",
+              "RelativeToolTip": "Odev2.7OkulZilUygulamasi\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:23:03.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\serap\\source\\repos\\Odev2.7OkulZilUygulamasi\\Odev2.7OkulZilUygulamasi\\Form1.cs",
+              "RelativeDocumentMoniker": "Odev2.7OkulZilUygulamasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\serap\\source\\repos\\Odev2.7OkulZilUygulamasi\\Odev2.7OkulZilUygulamasi\\Form1.cs [Design]*",
+              "RelativeToolTip": "Odev2.7OkulZilUygulamasi\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:22:59.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
